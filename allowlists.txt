@@ -1,1 +1,12 @@
+! =================================================
+! WHITELIST (OPTIMIZED)
+! MODIFIED BY: VEXAR
+! =================================================
 
+! --- 1. CỔNG DỊCH VỤ CÔNG & CHÍNH PHỦ ---
+@@||dichvucong.gov.vn^
+@@||baohiemxahoi.gov.vn^
+@@||thuedientu.gdt.gov.vn^
+@@||canhan.gdt.gov.vn^
+@@||vneid.gov.vn^
+@@||vnpost.vn^
